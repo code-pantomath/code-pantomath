@@ -4,7 +4,7 @@ A Full-Stack web devoloper.
 const string[] langs = new[2] { "C#", "JS/TS" };
 
 let OVR_EXP = {
-  front_end: ["HTML", "CSS", "JS/TS"]
+  front_end: ["HTML", "CSS/SASS", "JS/TS"]
   .concat("React", "Next.js")
   .concat("MUI", "MantineJs"),
   
