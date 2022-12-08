@@ -9,9 +9,8 @@ let OVR_EXP = {
   dbs: ["MongoDB", "MSSQL"],
 };
 
-let mut learning: [&str, 2] = ["Rust🦀", "Actix"];
-
+let mut learning: [&str; 2] = ["Rust🦀", "Actix"];
 ```
+
 - YOU SURE YOU KNOW DoCkeR !!!???????
 Don't worry, YES I do 😅.
- 
