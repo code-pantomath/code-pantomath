@@ -1,4 +1,4 @@
-Full-Stack web devoloper.
+A Full-Stack web devoloper.
 
 ```
 const string[] langs = new[2] { "C#", "JS/TS" };
